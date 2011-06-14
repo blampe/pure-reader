@@ -1,16 +1,14 @@
 {
    "content_scripts": [ {
-      "css": [ "reader.css" ],
-      "matches": [ "http://*.google.com/reader/*" ]
+      "css": ["reader.css"],
+      "matches": ["http://*.google.com/reader/*", "https://*.google.com/reader/*"]
    } ],
-   "description": "A UI haircut for Google Reader, ported to Chrome by Milind Alvares.",
+   "description": "A UI haircut for Google Reader, ported to Chrome by Milind Alvares and Bryce Lampe.",
    "icons": {
       "128": "icon-128.png",
       "16": "icon-16.png",
       "48": "icon-48.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDA1F0frMsiuViUC1wffaE4ufvP95pfPH40P824d3qoU0bViRmYaThJGovtoNVgpLThEiGuOYCoi3DtyArgqVnSo6Iar9AeBPxYUDcJRAPK8pCGJXet0SkBzrOJvmgMQGfIbF29rDQMQ+0V/4wymNSDemdkAyopPWqEcJc9MpCBYQIDAQAB",
    "name": "Pure Reader by Na Wong",
-   "update_url": "http://soggysh.it/chrome-purereader-update.xml",
-   "version": "1.0"
+   "version": "1.0.1"
 }
