@@ -418,6 +418,7 @@ div#search{
 	    color-stop(1, rgb(255,255,255))
 	);
 	width: 240px;
+  margin-top: 0px !important;
 }
 div#search input#search-input{
 	width: 222px !important;
@@ -903,6 +904,7 @@ div#nav li.tag span:nth-child(1){
 /* @group Home & Main */
 div#main{
 	top: 30px !important;
+  margin-top: 0px !important;
 }
 div#lhn-add-subscription-section{
 	position: absolute;
@@ -1534,6 +1536,12 @@ div#search-submit,
 div#search-restrict,
 a#logo-container,
 div#gbar{
+	display: none !important;
+}
+div#gbar, #gbw, #gbx1, #gbx2{
+	display: none !important;
+}
+div#gbx2{
 	display: none !important;
 }
 div#entries span.subscribe-button{
