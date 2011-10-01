@@ -1,0 +1,6 @@
+Turns Google Reader from [this](www.google.com/reader/) into [this](http://nadesign.net/safari/images/preview-reader.png).
+
+Original CSS and Safari extension available [here](http://nadesign.net/safari/).
+
+Licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+

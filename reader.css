@@ -125,13 +125,13 @@ div#guser nobr .gbm a.gb2:hover,
 div.goog-menuitem-highlight,
 div.goog-menu .goog-menuitem:hover{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	   	color-stop(0, rgb(74, 73, 72)),
-	   	color-stop(0.3, rgb(64, 63, 62)),
-	   	color-stop(0.7, rgb(54, 53, 52)),
-	    color-stop(1, rgb(34, 33, 32))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(74, 73, 72)),
+		color-stop(0.3, rgb(64, 63, 62)),
+		color-stop(0.7, rgb(54, 53, 52)),
+		color-stop(1, rgb(34, 33, 32))
 	) !important;
 	color: rgb(255,255,255) !important;
 }
@@ -155,13 +155,13 @@ div#no-entries-msg,
 div.preview-interruption{
 	border: 0 !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	   	color-stop(0, rgb(239, 237, 235)),
-	   	color-stop(0.3, rgb(244, 242, 240)),
-	   	color-stop(0.95, rgb(249, 247, 245)),
-	    color-stop(1, rgb(255, 255, 255))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(239, 237, 235)),
+		color-stop(0.3, rgb(244, 242, 240)),
+		color-stop(0.95, rgb(249, 247, 245)),
+		color-stop(1, rgb(255, 255, 255))
 	) !important;
 	-webkit-box-shadow:rgba(0,0,0,.34) 0 1px 4px, inset 0 0px 12px rgba(255,255,255,.5);
 	border-top: 1px solid rgba(255,255,255,.7) !important;
@@ -179,18 +179,18 @@ div.small-interruption span.link,
 div#no-entries-msg span.link{
 	padding: 4px 16px !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(0.9, rgb(233, 231, 229)),
-	    color-stop(1, rgb(223, 221, 219))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(0.9, rgb(233, 231, 229)),
+		color-stop(1, rgb(223, 221, 219))
 	) !important;
 	border: 1px solid rgb(203,201,199) !important;
 	border-radius:12px !important;
 	-webkit-box-shadow:rgb(255,255,255) 0 1px 0 !important;
-	font-size: 12px !important;	
+	font-size: 12px !important;
 	text-shadow: rgb(255,255,255) 0 1px 0 !important;
 }
 div#quick-add-input-div div.goog-button-body:hover,
@@ -203,14 +203,14 @@ div.small-interruption a:hover,
 div.small-interruption span.link:hover,
 div#no-entries-msg span.link:hover{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(246, 244, 242)),
-	   	color-stop(0.1, rgb(236, 234, 232)),
-	    color-stop(0.9, rgb(223, 221, 219)),
-	    color-stop(1, rgb(213, 211, 209))
-	) !important;	
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(246, 244, 242)),
+		color-stop(0.1, rgb(236, 234, 232)),
+		color-stop(0.9, rgb(223, 221, 219)),
+		color-stop(1, rgb(213, 211, 209))
+	) !important;
 	border: 1px solid rgb(183,181,179) !important;
 }
 div#quick-add-input-div div.goog-button-body:active,
@@ -224,13 +224,13 @@ div.small-interruption span.link:active,
 div#no-entries-msg span.link:active{
 	-webkit-box-shadow:rgb(255,255,255) 0 1px 0, inset rgba(0,0,0,.7) 0 2px 5px !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(206, 204, 202)),
-	   	color-stop(0.1, rgb(196, 194, 192)),
-	    color-stop(0.9, rgb(173, 171, 169)),
-	    color-stop(1, rgb(153, 151, 149))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(206, 204, 202)),
+		color-stop(0.1, rgb(196, 194, 192)),
+		color-stop(0.9, rgb(173, 171, 169)),
+		color-stop(1, rgb(153, 151, 149))
 	) !important;
 	border: 1px solid rgb(123, 121, 119) !important;
 	text-shadow: rgba(255,255,255,.5) 0 1px 0 !important;
@@ -348,18 +348,18 @@ div.entry-conversation div.goog-button-base-outer-box div div.goog-button-body{
 	color: rgb(100,100,100) !important;
 	padding: 1px 12px !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(0.9, rgb(233, 231, 229)),
-	    color-stop(1, rgb(223, 221, 219))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(0.9, rgb(233, 231, 229)),
+		color-stop(1, rgb(223, 221, 219))
 	) !important;
 	border: 1px solid rgb(203,201,199) !important;
 	border-radius:12px !important;
 	-webkit-box-shadow:rgb(255,255,255) 0 1px 0 !important;
-	font-size: 12px !important;	
+	font-size: 12px !important;
 	text-shadow: rgb(255,255,255) 0 1px 0 !important;
 	text-decoration: none !important;
 }
@@ -407,18 +407,18 @@ div#search{
 	border-top: 1px solid rgb(200,200,200);
 	border-bottom: 1px solid rgb(140,140,140);
 	background: -webkit-gradient(
-	    linear,
-	    left bottom,
-	    left top,
-	    color-stop(0.05, rgb(216, 214, 212)),
-	    color-stop(0.2, rgb(226, 224, 222)),
-	    color-stop(0.4, rgb(236,234,232)),
-	    color-stop(0.7, rgb(246,244,242)),
-	    color-stop(0.99, rgb(256, 254, 252)),
-	    color-stop(1, rgb(255,255,255))
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.05, rgb(216, 214, 212)),
+		color-stop(0.2, rgb(226, 224, 222)),
+		color-stop(0.4, rgb(236,234,232)),
+		color-stop(0.7, rgb(246,244,242)),
+		color-stop(0.99, rgb(256, 254, 252)),
+		color-stop(1, rgb(255,255,255))
 	);
 	width: 240px;
-  margin-top: 0px !important;
+	xxxxdisplay: none !important;
 }
 div#search input#search-input{
 	width: 222px !important;
@@ -431,7 +431,7 @@ div#search input#search-input{
 body.lhn-hidden div#search{
 	display: none !important;
 }
-body.lhn-menu div#search{	
+body.lhn-menu div#search{
 	top: 32px !important;
 	left: 12px !important;
 	z-index: 1004 !important;
@@ -441,7 +441,7 @@ body.lhn-menu div#search{
 
 }
 span#view-search-container{
-	
+
 }
 span#viewer-single-parent{
 	float: left !important;
@@ -493,11 +493,11 @@ div#entries.search div.entry-attribution{
 	font-size: 12px !important;
 }
 div.search-result{
-	border-bottom: 1px solid rgb(240, 238, 236) !important;		
+	border-bottom: 1px solid rgb(240, 238, 236) !important;
 }
 div.search .entry{
 	width: 92% !important;
-	margin: 0 auto !important;	
+	margin: 0 auto !important;
 }
 div#chrome.search-stream.item-stream div#chrome-header{
 	height: 14px;
@@ -523,7 +523,7 @@ div.feed-result-stats{
 }
 div.feed-result-stats span.number{
 	color: rgb(80,80,80) !important;
-	font-size: 18px !important;	
+	font-size: 18px !important;
 	font-weight: 500 !important;
 }
 span#chrome-view-links span#view-search{
@@ -535,13 +535,13 @@ span#chrome-view-links span#view-search{
 div#guser{
 	display: block !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	   	color-stop(0, rgb(94, 93, 92)),
-	   	color-stop(0.1, rgb(84, 83, 82)),
-	   	color-stop(0.5, rgb(54, 53, 52)),
-	    color-stop(1, rgb(34, 33, 32))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(94, 93, 92)),
+		color-stop(0.1, rgb(84, 83, 82)),
+		color-stop(0.5, rgb(54, 53, 52)),
+		color-stop(1, rgb(34, 33, 32))
 	) !important;
 	height: 26px !important;
 	z-index: 1001 !important;
@@ -560,7 +560,7 @@ div#guser nobr{
 div#guser nobr b{
 	color: rgb(240, 238, 236) !important;
 	font-weight: 400 !important;
-	font-size: 12px !important;	
+	font-size: 12px !important;
 }
 div#guser:hover nobr{
 	opacity: 1;
@@ -607,7 +607,7 @@ div#nav > div:nth-child(2) div.selected{
 }
 div#nav > div:nth-child(2) li.tree-selected span,
 div#nav > div:nth-child(2) div.selected a.link span{
-	color: rgb(255, 255, 255) !important;	
+	color: rgb(255, 255, 255) !important;
 }
 div#nav > div:nth-child(2){
 	z-index: 1004 !important;
@@ -695,7 +695,7 @@ body.lhn-hidden.lhn-menu div#nav{
 	border-radius:4px;
 }
 body.lhn-hidden div#nav > div:nth-child(2){
-	margin-left: 88px !important;	
+	margin-left: 88px !important;
 }
 body.lhn-hidden div#viewer-header{
 	margin-top: -11px !important;
@@ -718,18 +718,23 @@ div#chrome-lhn-menu div.goog-button-body{
 /* @end */
 
 /* @group Sidebar */
+div#nav{
+	position: absolute !important;
+	top: 0px !important;
+}
 div#nav > div:nth-child(5){
 	border-top: 0 !important;
 }
 div#nav > div:nth-child(5) div.lhn-section-primary{
+	display: block !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(0.9, rgb(233, 231, 229)),
-	    color-stop(1, rgb(223, 221, 219))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(0.9, rgb(233, 231, 229)),
+		color-stop(1, rgb(223, 221, 219))
 	) !important;
 	height: 25px !important;
 	margin-left: 0 !important;
@@ -773,21 +778,21 @@ div#nav > div:nth-child(5) ul#sub-tree li.folder ul li.expanded span.name-text-d
 	color: rgb(90,95,100) !important;
 }
 div#nav > div:nth-child(5) ul#sub-tree li.folder > ul li.sub > a{
-	border-top: 1px solid rgb(255, 255, 255) !important;	
+	border-top: 1px solid rgb(255, 255, 255) !important;
 	border-bottom: 1px solid rgb(240, 238, 236) !important;
 }
 div#nav > div:nth-child(5) ul#sub-tree li.folder > ul li.sub > a:hover{
 	background: rgb(255,255,255) !important;
-	border-top: 1px solid rgb(255, 255, 255) !important;	
+	border-top: 1px solid rgb(255, 255, 255) !important;
 }
 div#nav > div:nth-child(5) ul#sub-tree li.folder > a{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(1, rgb(233, 231, 229))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(1, rgb(233, 231, 229))
 	) !important;
 	border-bottom: 1px solid rgb(181, 180, 178) !important;
 	padding-left: 22px !important;
@@ -802,18 +807,18 @@ div#nav > div:nth-child(5) ul#sub-tree > li.expanded > ul > li.expanded{
 .scroll-tree li.tag a.tree-link-selected,
 div#nav > div:nth-child(5) ul#sub-tree li.folder > ul li.sub > a.tree-link-selected{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(103, 102, 101)),
-	   	color-stop(0.1, rgb(113, 112, 111)),
-	   	color-stop(0.6, rgb(135, 133, 132)),
-	    color-stop(1, rgb(152, 150, 149))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(103, 102, 101)),
+		color-stop(0.1, rgb(113, 112, 111)),
+		color-stop(0.6, rgb(135, 133, 132)),
+		color-stop(1, rgb(152, 150, 149))
 	) !important;
-	border-bottom: 1px solid rgb(133, 131, 130) !important;	
+	border-bottom: 1px solid rgb(133, 131, 130) !important;
 	border-top: 1px solid rgb(95, 94, 93) !important;
 	-webkit-box-shadow: inset 0 1px 20px rgba(0,0,0,.25);
-} 
+}
 div#nav li.tag.tree-selected span:nth-child(1),
 div#nav > div:nth-child(5) ul#sub-tree li.folder > ul li.sub > a.tree-link-selected span{
 	color: rgb(255,255,255) !important;
@@ -850,13 +855,13 @@ div.tree-item-action-container{
 .lhn-section-footer{
 	height: 28px !important;
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(0.9, rgb(233, 231, 229)),
-	    color-stop(1, rgb(223, 221, 219))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(0.9, rgb(233, 231, 229)),
+		color-stop(1, rgb(223, 221, 219))
 	) !important;
 	border-top: 1px solid rgb(203, 201, 199);
 }
@@ -866,13 +871,13 @@ div.tree-item-action-container{
 }
 div#nav > div:nth-child(5) ul#sub-tree li.folder > a.tree-link-selected{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(246, 244, 242)),
-	   	color-stop(0.1, rgb(236, 234, 232)),
-	    color-stop(0.9, rgb(223, 221, 219)),
-	    color-stop(1, rgb(213, 211, 209))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(246, 244, 242)),
+		color-stop(0.1, rgb(236, 234, 232)),
+		color-stop(0.9, rgb(223, 221, 219)),
+		color-stop(1, rgb(213, 211, 209))
 	) !important;
 }
 div#nav > div:nth-child(5) ul#sub-tree li.tree-selected li.sub a.link{
@@ -897,14 +902,40 @@ div#nav li.tag span:nth-child(1){
 .scroll-tree li.tag a:hover{
 	background: rgb(255,255,250) !important;
 }
-
+div#lhn-friends{
+	z-index: 2000 !important;
+	border: none !important;
+	height: 24px !important;
+	margin-bottom: 24px !important;
+	position: relative;
+	display: none !important;
+}
+div#lhn-friends .folder{
+	background: transparent !important;
+	border: none !important;
+}
+div#lhn-friends .folder a{
+	background: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(1, rgb(233, 231, 229))
+	) !important;
+	border-bottom: 1px solid rgb(181, 180, 178) !important;
+	padding-left: 22px !important;
+	line-height: 28px;
+}
 /* @end */
 
 
 /* @group Home & Main */
+div#top-bar{
+	height: 0 !important;
+}
 div#main{
-	top: 30px !important;
-  margin-top: 0px !important;
+	top: 0px !important;
 }
 div#lhn-add-subscription-section{
 	position: absolute;
@@ -934,7 +965,7 @@ div#home div.overview-header span a{
 	padding: 3px 6px;
 	color: rgb(86, 86, 85) !important;
 	font-weight: 600 !important;
-	border-top: 1px dotted rgb(196, 193, 191) !important;	
+	border-top: 1px dotted rgb(196, 193, 191) !important;
 	border-bottom: 1px dotted rgb(196, 193, 191) !important;
 	font-size: 16px !important;
 	line-height: 30px !important;
@@ -1002,7 +1033,6 @@ body.lhn-hidden div.card div.entry-container{
 }
 div#entries{
 	top: -10px !important;
-
 }
 div#viewer-top-controls{
 	height: 16px !important;
@@ -1025,13 +1055,13 @@ div#chrome-header{
 }
 div#viewer-header{
 	background: -webkit-gradient(
-	    linear,
-	    left top,
-	    left bottom,
-	    color-stop(0, rgb(256, 254, 252)),
-	   	color-stop(0.1, rgb(246, 244, 242)),
-	    color-stop(0.9, rgb(233, 231, 229)),
-	    color-stop(1, rgb(223, 221, 219))
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(256, 254, 252)),
+		color-stop(0.1, rgb(246, 244, 242)),
+		color-stop(0.9, rgb(233, 231, 229)),
+		color-stop(1, rgb(223, 221, 219))
 	) !important;
 	height: 26px;
 	margin-top: -2px !important;
@@ -1103,17 +1133,18 @@ div#chrome-header span#chrome-title a{
 }
 .entry .entry-body div.item-body ol li,
 .entry .entry-body div.item-body ul li{
-	margin-bottom: 1em !important;
+	margin-bottom: 0.8em !important;
 }
 .entry .entry-body div.item-body dt{
 	color: rgb(0,0,0) !important;
 }
+div.entry-author,
 .collapsed div.entry-date,
 div.entry-container div.entry-date{
 	color: rgb(150,150,150) !important;
 }
 div.entry-container div.entry-date{
-	float: left !important;
+	xxxxfloat: left !important;
 	margin-top: 5px !important;
 }
 .collapsed div.entry-date{
@@ -1126,11 +1157,21 @@ div.single-source .collapsed div.entry-date{
 h2.entry-title{
 	clear: left;
 	display: block;
-	padding-top: 8px;
 }
 div.card-content h2.entry-title{
 	-webkit-transition-duration:400ms !important;
-	opacity: .6 !important;	
+	opacity: .6 !important;
+	top: 24px !important;
+	position: relative;
+	margin-bottom: 36px !important;
+}
+div.single-source.cards div.card-content h2.entry-title{
+	top: -3px !important;
+	margin-bottom: 0 !important;
+}
+div#entries.single-source.cards div#current-entry div.card-content h2.entry-title{
+	top: -10px !important;
+	margin-bottom: -7px !important;
 }
 h2.entry-title a{
 	color: rgb(46, 46, 45) !important;
@@ -1151,7 +1192,21 @@ div.entry-main{
 	overflow: hidden !important;
 }
 div.entry-author{
-	display: none;
+	position: absolute !important;
+	top: 4px !important;
+	font-size: 12px !important;
+	clear: left !important;
+	display: block !important;
+}
+.state-stream div.entry-author div.entry-via{
+	display: none !important;
+}
+div.single-source.cards div.entry-author{
+	display: none !important;
+}
+span.entry-author-parent{
+	display: none !important;
+	font-style: italic !important;
 }
 div.card-actions{
 	border-radius:0 !important;
@@ -1260,7 +1315,7 @@ div.entry-0{
 	height: 0 !important;
 	border: none;
 	border-top: 1px solid rgb(170,170,175);
-	border-bottom: 1px solid rgb(255,255,255);	
+	border-bottom: 1px solid rgb(255,255,255);
 }
 div.entry blockquote{
 	border-left: 1px dotted rgba(136, 134, 133,.4);
@@ -1290,7 +1345,7 @@ div.collapsed{
 	background: transparent !important;
 	border-left: 0 !important;
 	border-right: 0 !important;
-	border-top: 1px solid rgb(255, 255, 255) !important;	
+	border-top: 1px solid rgb(255, 255, 255) !important;
 	border-bottom: 1px solid rgb(240, 238, 236) !important;
 	padding: 6px 0 !important;
 	/*-webkit-transition-duration:300ms;*/
@@ -1302,15 +1357,19 @@ div#current-entry div.collapsed{
 }
 div.samedir div#current-entry.expanded div.collapsed,
 div.single-source div#current-entry.expanded div.collapsed{
-	border-bottom: 0 !important;	
+	border-bottom: 0 !important;
 }
+div.samedir div#entries.list div#current-entry div.collapsed{
+	height: 72px !important;
+}
+
 div.single-source div#current-entry.expanded div.collapsed{
 	margin-bottom: -36px !important;
 }
 div.single-source div#current-entry.expanded div.collapsed h2.entry-title{
 	height: 21px !important;
 	overflow: hidden !important;
-	opacity:0 !important;
+	opacity: 0 !important;
 }
 div.samedir div#current-entry.expanded div.collapsed .entry-secondary,
 div.single-source div#current-entry.expanded div.collapsed .entry-date,
@@ -1358,6 +1417,7 @@ div.single-source div.collapsed div.entry-icons div.item-star-active,
 div.single-source div.collapsed div.entry-icons div.item-star{
 	position: relative !important;
 	top: 6px !important;
+	z-index:1000 !important;
 }
 div.single-source div.collapsed h2.entry-title{
 	display: block !important;
@@ -1399,11 +1459,32 @@ div.samedir span.entry-source-title{
 	padding-top: 2px !important;
 }
 div.samedir div#current-entry div.collapsed{
-	height: 20px !important;
+	height: 28px !important;
+	border-top: none !important;
+}
+div.samedir div#entries.list div#current-entry.expanded div.collapsed{
+	height: 11px !important;
+	margin-top: 18px !important;
+}
+div.single-source div#current-entry.expanded{
+	margin-top: 4px !important;
 }
 div.single-source div#current-entry div.collapsed{
 	height: 28px !important;
 	margin-top: -4px !important;
+}
+div.samedir div#entries.list.single-source div#current-entry.expanded div.collapsed{
+	height: 25px !important;
+	margin-top: 0px !important;
+}
+div.single-source.list div#current-entry div.entry-icons{
+	top: 6px !important;
+}
+div.single-source.list div#current-entry h2.entry-title{
+	margin-top: 10px !important;
+}
+div.single-source div#current-entry h2.entry-title{
+	margin-top: 7px !important;
 }
 /* @end */
 
@@ -1461,6 +1542,24 @@ div.entry-annotation{
 div.created div.entry-body{
 	background: transparent !important;
 }
+div#entries.list div.expanded div.entry-author{
+	display: none !important;
+}
+div#entries.list div.expanded h2.entry-title{
+	margin-bottom: 1em !important;
+}
+div.entry-annotation{
+	padding: 22px 18px !important;
+	background: rgb(250,250,245) !important;
+	-webkit-box-shadow: rgba(0,0,0,.3) 0px 1px 3px !important;
+	margin: 6px !important;
+}
+div.entry-annotation div.entry-annotation-body{
+	line-height: 20px !important;
+	font-size: 14px !important;
+	color: rgb(102,100,100) !important;
+	font-style: italic !important;
+}
 /* @end */
 
 /* @group Forms */
@@ -1500,6 +1599,7 @@ div#quick-add-btn > div{
 
 
 /* @group Hide*/
+div#entries.cards div.entry-likers,
 span.bookmarklet-callout,
 div.search-result a.entry-original,
 div.item-link-drop-down-arrow,
@@ -1529,19 +1629,13 @@ div.entry-title-go-to,
 span.subscribe-button,
 span.folder-icon,
 div#viewer-footer,
-div#lhn-friends,
+xxxxdiv#lhn-friends,
 div#lhn-recommendations,
 div.gbh,
 div#search-submit,
 div#search-restrict,
 a#logo-container,
 div#gbar{
-	display: none !important;
-}
-div#gbar, #gbw, #gbx1, #gbx2{
-	display: none !important;
-}
-div#gbx2{
 	display: none !important;
 }
 div#entries span.subscribe-button{
@@ -1573,6 +1667,7 @@ div#home div#overview span.overview-item-link,
 	/*font-family: "Georgia","Palatino",serif !important;*/
 	font-family:"Helvetica Neue", "Helvetica", "Arial" !important;
 }
+div.entry-annotation div.entry-annotation-body,
 .entry .entry-body blockquote{
 	font-family: "Georgia","Palatino",serif !important;
 }
@@ -1581,14 +1676,14 @@ div#chrome-header span#chrome-title a{
 }
 .entry .item-body,
 .entry .entry-body{
-	font-size: 16px !important;	
+	font-size: 16px !important;
 	line-height: 28px !important;
 	color: rgb(100,100,100) !important;
 	font-weight: 400 !important;
 	text-shadow: rgb(255,255,255) 0 1px 0;
 }
 div#home div#overview span.overview-item-link{
-	font-size: 13px !important;	
+	font-size: 13px !important;
 	line-height: 20px !important;
 }
 div#entries.search div.search-result span.entry-date,
@@ -1659,11 +1754,13 @@ div#scroll-filler a{
 /* @end */
 
 /* @group Links */
+
 div.feed-info,
 div#entries.search a.entry-source-title,
 div#footer a,
-div#home div#overview div.label a{
-	color: rgb(130,140,150) !important;	
+div#home div#overview div.label a,
+div.entry-author a{
+	color: rgb(130,140,150) !important;
 	-webkit-transition-duration:400ms;
 }
 div#entries.search a.entry-source-title{
@@ -1674,7 +1771,7 @@ div#home span.link{
 	-webkit-transition-duration:400ms;
 }
 div#home span.link:hover{
-	color: rgb(0,0,10) !important;	
+	color: rgb(0,0,10) !important;
 }
 span.directory-return-link,
 div.search div.preview-interruption span.try-search-on-feeds-link,
@@ -1688,6 +1785,7 @@ div#scroll-filler a,
 	text-shadow: rgb(255,255,255) 0 1px 0;
 	-webkit-transition-duration:400ms;
 }
+div.entry-author a:hover,
 span.directory-return-link:hover,
 div.search div.preview-interruption span.try-search-on-feeds-link:hover,
 div#entries.search a.entry-source-title:hover,
@@ -1709,15 +1807,15 @@ div#no-entries-msg span.link{
 	color: rgb(103,101,99) !important;
 }
 div#no-entries-msg span.link:hover{
-	color: rgb(93,91,89) !important;	
+	color: rgb(93,91,89) !important;
 }
 div#no-entries-msg span.link:active{
-	color: rgb(0,0,0) !important;	
+	color: rgb(0,0,0) !important;
 }
 span#sub-tree-header:hover,
 .lhn-section-footer a:hover{
 	color: rgb(71, 70, 69)!important;
-	text-shadow: rgb(255, 255, 255) 0 1px 0;	
+	text-shadow: rgb(255, 255, 255) 0 1px 0;
 }
 #home #overview a.label-link b,
 #home #overview a.label-link{
@@ -1745,7 +1843,7 @@ li.expanded div.toggle-d-1{
 	background-repeat: no-repeat;
 }
 li.collapsed div.toggle-d-1{
-	background-position:6px -19px !important;	
+	background-position:6px -19px !important;
 }
 div#viewer-top-controls div#stream-prefs-menu,
 div#lhn-subscriptions-menubutton{
@@ -1753,7 +1851,7 @@ div#lhn-subscriptions-menubutton{
 	background-repeat: no-repeat;
 }
 div#viewer-top-controls div#stream-prefs-menu{
-	margin-top: 0px !important;	
+	margin-top: 0px !important;
 }
 span#view-list,
 span#view-cards{
@@ -1791,7 +1889,7 @@ div#lhn-subscriptions-menubutton{
 	margin-top: 1px !important;
 }
 div#lhn-subscriptions-menubutton:active{
-	background-position:0px -14px !important;
+	background-position:0px -15px !important;
 }
 div#nav > div:nth-child(2) a#your-items-tree-item-1-link,
 div#nav > div:nth-child(2) a#your-items-tree-item-2-link,
@@ -1815,7 +1913,7 @@ div#lhn-selectors div#reading-list-selector a.link{
 	background-position: -28px 0px !important;
 }
 div#lhn-selectors div#reading-list-selector.selected a.link{
-	background-position: -28px -22px !important;	
+	background-position: -28px -22px !important;
 }
 div#lhn-selectors div#star-selector a.link{
 	background-position: -60px 0px !important;
@@ -1828,7 +1926,7 @@ div#nav > div:nth-child(2) a#your-items-tree-item-1-link{
 	width: 25px !important;
 }
 div#nav > div:nth-child(2) a#your-items-tree-item-1-link.tree-link-selected{
-	background-position: -87px -20px !important;	
+	background-position: -87px -20px !important;
 }
 div#nav > div:nth-child(2) a#your-items-tree-item-2-link{
 	background-position: -119px 2px !important;
@@ -1859,10 +1957,10 @@ div#viewer-refresh{
 	margin-top: 2px !important;
 }
 div#viewer-refresh:active{
-	background-position: 5px bottom !important;	
+	background-position: 5px bottom !important;
 }
 div#viewer-top-controls div#stream-prefs-menu:active{
-	background-position: left bottom !important;		
+	background-position: left bottom !important;
 }
 div#mark-all-as-read{
 background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAaCAYAAACD+r1hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA6VJREFUeNqcU1toHGUUPv/8/1yys9nZrLFkuyz0oUYXLN2NfWjajS+9pCi1am5NRVNQwvhSEUkqCg2zYGiJj3lq962iaFKLLcF6eWjsgqCtrPgQbSwu1Dbr5rYVgsvOPzOeMzaliE/+8DHL2XP9zndYEARAb7D/RY0pbJQxpR+/3Qxtvh98C4E/6/nB2ZnZT5vkxyhgaLAvJYQ6xznfKQQHRVEA0O4jpPTAk/JH6clnP/7kwh02ONCnGS1GWRUiYxgGaJoGHIPoea6EputCo9EAV8qFxl+NrEBn29D1jGma0NJigCpUoCrUqed70NW1q0JBX175PIM5bOWRRMIm56gZgTAo0gKaroOqqbB7957Kc0deKPxZXy8baE/E22whpeyMRk3o3ttT4VyB8g83tgW+D7ncU5XeQ88U3n3nZDoI/Od1VaPWOoWuqYzjkPW11fLwS69cCvzgFLID5Pz2ybfSOLijcoGzqQAKA/b+1Ol6vb5uMcbA8/yJ9ybP3KaBx8beTPue76iqCIkgmmNWW51dvHjh2vXvv8sTvU23iRS6E1SBK9zh6KzjPBq243sSsl27SuLgwUPTv91azK2tr5sKVpE+OFRNwXnI2SCaOQfTim8cONA7TYsTtVrt/EcffnB4daVmIt/h0lRVBR33Qs4xy9oY6D96+dEtW15m96XR7rruVKn0TX7x5i/t1aWlOBcKJJOpe9u3P7bcvSdfwgRj6LeyGUBPII4gehA779t+QswjPkPITafwYd8oIEgisojuTTPiJkJ5kJh+CCFSSF0Zywb/BfqPfMiXmWZEU1WtLKWbIXYIDz/ccqgrVPOC6zazorW11fY8L6PrWijrfweMjByvUOZisYhq1m0lmdxqYxDEYrEHsCwr/L5u25XJyclCtVotR6NRZC1psx07npSoJT587FiFss/OzGyjzH39A5Xx8fFCVy6L4gscHwUJAXgCMzFS6drqSvn0malLuN1TFHDixBuFfH5vOmJGHGo1ILmgHxsdfa1+5/fbFjZPjE3MzV0Jxdfbuz+NBocpPDwoeqlUqs6K585e+/qrL/J0v3i7IFGxAdbmjDkkC44SwfMFamnfvv0lMXR0ePrWr4u52jLqCE/RdaUTbhSzapoOeC8hc/G2xMbg0PA/4qsu3T1fLJ47XKv9YeIFhusVlBlBVRKJxMbI8Vcvd3R0PCy+5tT8/NX8zwsL7dXq3biCStmaSt3rfPyJ5Z6ep1F82v8T398CDAB9g5Q0ik32gwAAAABJRU5ErkJggg==) !important;
@@ -1874,7 +1972,7 @@ background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAaCAYA
 	margin-top: 2px !important;
 }
 div#mark-all-as-read:active{
-	background-position: 5px -12px !important;	
+	background-position: 5px -12px !important;
 }
 div.arr,
 span.item-link,
@@ -1897,7 +1995,7 @@ background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAADwCAYA
 	margin-top: 5px !important;
 }
 .goog-option-selected:hover div.goog-menuitem-checkbox{
-	background-position: -14px -143px !important;	
+	background-position: -14px -143px !important;
 }
 span.item-link,
 span.broadcast-inactive,
@@ -1955,10 +2053,10 @@ div#chrome-lhn-toggle-icon{
 }
 span.item-link.link{
 	margin-left: 8px;
-	background-position: 0px -205px !important;	
+	background-position: 0px -205px !important;
 }
 #mark-all-as-read-options{
-	background-position: -3px -230px !important;	
+	background-position: -3px -230px !important;
 }
 div.arr{
 	width: 8px !important;
@@ -1999,5 +2097,63 @@ li.tag a span{
 ::-webkit-scrollbar-track-piece:vertical {
 	background-color: #fff;
 	border-left: 1px solid rgba(210,210,210,.2);
+}
+/* @end */
+
+/* @group QuickFix */
+#gb{
+	background: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0, rgb(74, 73, 72)),
+		color-stop(0.3, rgb(64, 63, 62)),
+		color-stop(0.7, rgb(54, 53, 52)),
+		color-stop(1, rgb(34, 33, 32))
+	) !important;
+}
+.gbtb2,
+#gbi4 .gbma,
+#gbz,#gbx1,#gbx2,#gbx3,#gbx4,
+.gbtcb{
+	display:none !important;
+}
+.gbts, #gbg5, .gbtb, .gbgt, #gbg4{
+	border:0 !important;
+}
+#search, #main{
+	margin-top:0 !important;
+}
+#gbi4 span{
+	color:#aaa !important;
+	font-weight:normal !important;
+	font-size:11px !important;
+	text-transform:uppercase;
+	position:relative !important;
+	top:1px;
+}
+.gbto #gbgs4 span{
+	color:#36c !important;
+}
+#gbg{
+	z-index:1010 !important;
+}
+#gbg4, #gbg5{
+	height:30px !important;
+	-webkit-transition-duration:.5s;
+}
+#gbg4:hover, #gbg5:hover{
+	background:rgba(0,0,0,.3) !important;
+	border:0 !important;
+}
+#gbg5 #gbi5{
+	background-position: 0px 1px !important;
+	opacity:.8;
+}
+.gbto #gbg5 #gbi5{
+	background-position: -6px -22px !important;
+}
+.gbto{
+	-webkit-box-shadow:none !important;
 }
 /* @end */
